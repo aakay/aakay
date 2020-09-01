@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a software engineer.
+Besides my daily job, I've created a chart web app for Turkish covid-19 data.
+
 <!--
 **aakay/aakay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
