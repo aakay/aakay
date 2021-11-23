@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer.
+I'm a software engineer. Working (mostly) on react & nodejs apps.
 
 <!--
 Besides my daily job, I've created a chart web app for Turkish covid-19 data.
